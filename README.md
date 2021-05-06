@@ -7,11 +7,17 @@
 
 ## UPDATE:
 
-### [`yellowstone-camping` is being expanded and renamed to `camply`.](https://github.com/juftin/camply)
+### [`yellowstone-camping` has been expanded and renamed to `camply`.](https://github.com/juftin/camply/tree/camply)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/juftin/camply/camply/docs/static/camply.svg" 
+    width="200" height="200" alt="camply">
+</p>
 
 The updated tool now interfaces with the Recreation.gov API as well, adding thousands of campgrounds
-across the USA. The original codebase has been migrated to
-https://github.com/juftin/camply . The original `yellowtone-camping` source code will be preserved
+across the USA. Updated functionality, new camping and notification integrations, and a friendly command line 
+interface is available on `camply`, come join us there. The original codebase has been migrated to
+https://github.com/juftin/camply . The clone of the original `yellowtone-camping` source code will be preserved here
 at https://github.com/juftin/yellowstone-camping
 
 * * *
