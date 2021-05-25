@@ -7,10 +7,10 @@
 
 ## UPDATE:
 
-### [`yellowstone-camping` has been expanded and renamed to `camply`.](https://github.com/juftin/camply/tree/camply)
+### [`yellowstone-camping` has been expanded and renamed to `camply`.](https://github.com/juftin/camply)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/juftin/camply/camply/docs/static/camply.svg" 
+  <img src="https://raw.githubusercontent.com/juftin/camply/main/docs/static/camply.svg" 
     width="200" height="200" alt="camply">
 </p>
 
